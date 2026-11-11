@@ -136,11 +136,7 @@ export default function Footer() {
                 <a href="tel:+14167355356" className="hover:text-teal-400 transition-colors font-mono">
                   +1 (416) 735-5356
                 </a>
-              </div>
-              <div className="flex items-start gap-3">
-                <MapPin className="w-4 h-4 text-teal-400 shrink-0 mt-0.5" />
-                <span>Toronto / Montreal / Vancouver & Cross-Border USA Corridors</span>
-              </div>
+             
             </div>
 
             <div className="pt-4">
