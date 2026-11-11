@@ -23,7 +23,7 @@ export default function HomePage() {
 
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-extrabold mb-6 leading-tight tracking-tight text-white drop-shadow-md">
             Moving Freight Forward.<br />
-            <span className="text-gradient">Across Canada & Beyond.</span>
+            
           </h1>
 
           <p className="text-lg sm:text-xl mb-10 max-w-3xl text-slate-100 leading-relaxed font-normal drop-shadow">
