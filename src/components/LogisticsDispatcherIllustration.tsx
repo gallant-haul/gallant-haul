@@ -331,9 +331,6 @@ export default function LogisticsDispatcherIllustration({
           <g className="anim-float" style={{ animationDelay: '0.8s' }}>
             <rect x="40" y="20" width="125" height="38" rx="10" fill="#0f172a" fillOpacity="0.9" stroke="#38bdf8" strokeWidth="1.5" />
             <circle cx="55" cy="39" r="4" fill="#38bdf8" />
-            <text x="66" y="35" fill="#f8fafc" fontSize="9" fontWeight="bold" fontFamily="Plus Jakarta Sans, sans-serif">
-              C-TPAT & Bonded
-            </text>
             <text x="66" y="47" fill="#94a3b8" fontSize="8" fontFamily="Plus Jakarta Sans, sans-serif">
               GPS Telemetry 24/7
             </text>
