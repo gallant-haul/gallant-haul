@@ -18,7 +18,7 @@ export default function HomePage() {
 
         <div className="relative z-10 max-w-5xl mx-auto flex flex-col items-center text-center section-fade">
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-teal-500/20 border border-teal-400/30 text-teal-300 text-xs font-bold uppercase tracking-wider mb-8 backdrop-blur-md">
-            <span>🍁</span> Canadian Bonded Carrier & Freight Brokerage
+            
           </div>
 
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-extrabold mb-6 leading-tight tracking-tight text-white drop-shadow-md">
@@ -27,7 +27,7 @@ export default function HomePage() {
           </h1>
 
           <p className="text-lg sm:text-xl mb-10 max-w-3xl text-slate-100 leading-relaxed font-normal drop-shadow">
-            Professionalism accompanied by safety. We provide dedicated cross-border capacity, real-time load tracking, and C-TPAT certified security for North America's most demanding supply chains.
+            We provide dedicated cross-border capacity, real-time load tracking.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
@@ -57,32 +57,8 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* 2. TRUST & CERTIFICATIONS BAR */}
-      <section className="gradient-navy text-white py-8 relative z-20 shadow-2xl border-y border-slate-700/50">
-        <div className="max-w-7xl mx-auto flex flex-wrap justify-around items-center gap-6 px-4">
-          <div className="flex items-center gap-3 font-semibold text-base sm:text-lg hover:text-teal-400 transition-colors cursor-default">
-            <span className="text-2xl bg-white/10 p-2.5 rounded-full">🍁</span>
-            <span>Canadian Bonded Carrier</span>
-          </div>
-
-          <div className="flex items-center gap-3 font-semibold text-base sm:text-lg hover:text-teal-400 transition-colors cursor-default">
-            <span className="text-2xl bg-white/10 p-2.5 rounded-full">🛡️</span>
-            <span>C-TPAT Certified Security</span>
-          </div>
-
-          <div className="flex items-center gap-3 font-semibold text-base sm:text-lg hover:text-teal-400 transition-colors cursor-default">
-            <span className="text-2xl bg-white/10 p-2.5 rounded-full">🌱</span>
-            <span>CARB California Certified</span>
-          </div>
-
-          <div className="flex items-center gap-3 font-semibold text-base sm:text-lg hover:text-teal-400 transition-colors cursor-default">
-            <span className="text-2xl bg-white/10 p-2.5 rounded-full">⚡</span>
-            <span>24/7 Live Satellite Dispatch</span>
-          </div>
-        </div>
-      </section>
-
-      {/* 3. DEDICATED PORTAL ENTRY POINTS */}
+      
+      {/* 2. DEDICATED PORTAL ENTRY POINTS */}
       <section className="py-16 px-6 lg:px-20 bg-slate-100 border-b border-slate-200">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-10">
@@ -184,7 +160,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* 4. COMPREHENSIVE TRANSPORTATION SOLUTIONS */}
+      {/* 3. COMPREHENSIVE TRANSPORTATION SOLUTIONS */}
       <section className="py-24 px-6 lg:px-20 bg-slate-50 relative">
         <div className="max-w-7xl mx-auto relative z-10">
           <div className="text-center mb-16 section-fade">
